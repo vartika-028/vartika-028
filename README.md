@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vartika Kushwaha</h1>
-<h3 align="center">A Full Stack & AI/ML Enthusiast from India</h3>
+<h3 align="center">AI/ML Enthusiast from India</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning & Full Stack Development**
