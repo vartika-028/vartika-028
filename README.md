@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast from India</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning & Full Stack Development**
+- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
 - 🎓 **B.Tech in IT (AI & Robotics) | Aspiring Full Stack Developer & ML Engineer**
   
