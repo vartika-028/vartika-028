@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
-- 🎓 **B.Tech in IT (AI & Robotics) | Aspiring Full Stack Developer & ML Engineer**
+- 🎓 **B.Tech in IT (AI & Robotics) | AI & ML Engineer**
   
 - ⚡ I love **learning new things**
 
